@@ -1,0 +1,8 @@
+{
+  "javascript.suggestionActions.enabled": false,
+  "editor.quickSuggestions": {
+    "other": "on",
+    "comments": "off",
+    "strings": "off"
+  }
+}
